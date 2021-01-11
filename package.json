@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "neo4j-driver": "^4.0.2"
+    "neo4j-driver": "^4.2.1"
   }
 }
